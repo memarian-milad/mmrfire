@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miladmemarian
+- 👋 Hi, I’m Milad Memarian
 - 👀 I’m interested in Programming, Economy
 - 🌱 I’m currently learning Block chain
 - 💞️ I’m looking to collaborate on Ewano (hamrah aval)
