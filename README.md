@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Milad Memarian
 - 👀 I’m interested in Programming, Economy
 - 🌱 I’m currently learning Block chain
-- 💞️ I’m looking to collaborate on Ewano (hamrah aval)
+- 💞️ I’m looking to collaborate on Sarveno
 - 📫 How to reach me milad.memarian1373@gmail.com
